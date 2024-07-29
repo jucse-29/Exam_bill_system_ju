@@ -1,0 +1,212 @@
+.form-group.select-container{
+    font-size: 20px;
+    font-weight: bold;
+    /* box-shadow: 10px 8px 10px rgba(0, 0, 0, 0.1); */
+  }
+   
+  
+  .form-group
+  {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+ 
+  .form-select{
+    font-size: 16px;
+    border-radius: 8px;
+    border-width: 3px;
+    /* border-color: rgb(126, 123, 123); */
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    margin:1% 0 2% 0;
+    margin-bottom: 30px;
+    cursor: pointer;
+  }
+  .form-control{
+    font-size: 16px;
+    border-radius: 8px;
+    /* border-width: 3px; */
+    /* border-color: rgb(126, 123, 123); */
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    margin:1% 0 2% 0;
+    cursor: pointer;
+  }
+  
+  #selectedDepartment{
+  
+    font-size: 17px;
+    }
+    #selectedSemester{
+    
+      font-size: 17px;
+     
+      }
+      #selectedDepartment:hover{
+        background-color: #f0f0f0; 
+        cursor: pointer; 
+      }
+  
+      #selectedSemester:hover{
+        background-color: #f0f0f0; 
+        cursor: pointer; 
+      }
+
+      #selectedType:hover{
+          background-color: #f0f0f0; 
+          cursor: pointer; 
+      }
+      
+  
+      .checkbox-label:hover {
+        transform: scale(1.1); 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+        background-color: #f0f0f0; 
+        color:cornflowerblue;
+        cursor: pointer;
+        
+      }
+     
+      .checkbox-input:hover {
+        cursor: pointer;
+      }
+      
+      .criteriaSelect{
+        margin:14px;
+       
+        margin:10px;
+      }
+
+      .checkbox-input:hover{
+        transform: scale(1.1); 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+        background-color: #f0f0f0; 
+        color:cornflowerblue;
+        cursor: pointer;
+        
+      }
+      .checkbox-label {
+        cursor: pointer;
+      }
+      .checkbox-input.criteriaSelect{
+        cursor:pointer;
+        margin-right:20px;
+      }
+      /* .criteriaSelectCheckbox:hover{
+        transform: scale(1.0); 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+        background-color: #f0f0f0; 
+        color:cornflowerblue;
+        
+      } */
+      .column-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between; /* Create space between columns */
+      }
+      
+      .column-item {
+        flex: 0 0 calc(33.33% - 20px); /* Adjust the width based on your desired column width */
+        margin: 10px; /* Adjust the margin as needed for spacing */
+      }
+      
+    
+     
+      
+      .course-name {
+        border: 1px solid #ccc;
+        padding: 5px;
+        margin: 5px;
+      } 
+      
+  .col-md-12.mb-2:hover {
+    transform: scale(1.01); 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    /* background-color: #f0f0f0;  */
+    color:black;
+  }   
+      
+     
+
+.checkbox-label {
+  display: flex; /* Align label and checkbox horizontally */
+  align-items: center; /* Vertically center checkbox within the label */
+  margin-bottom: 100px; /* Add space between checkboxes */
+  /* border: 1px solid #ccc; */
+  padding: 5px;
+  margin: 5px;
+  font-size: 16px;
+  border-radius: 8px;
+  border-width: 3px;
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.4);
+  /* border-color: rgb(126, 123, 123); */
+  font-weight: bold;
+
+}
+
+
+.checkbox-input {
+  margin-left: 200px; /* Add space between checkbox and text */
+}
+  .panel-border{
+    /* background-color: rgb(244, 245, 245); */
+    padding:60px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+  }
+ 
+
+    .panel {
+      border: 3px solid #010810;
+      margin: 30px;
+      width: 540px; 
+      height: 940px; 
+      background-color: #eae7e7ee;
+      border-width: 5px;
+      border-radius: 5px;
+      
+    }
+    #panelType{
+      cursor:pointer;
+    }
+    
+   #numPanels:hover{
+    background-color:#f0f0f0; 
+    cursor: pointer; 
+   }
+  
+  .panel:hover {
+    /* background-color:rgb(209, 208, 208);  */
+    cursor: pointer; 
+  }
+  #PanelNo{
+  font-weight: bold;
+  text-align: center;
+  color:black;
+  font-size: 16px;
+  }
+  .bold-course-name {
+    font-weight: bold;
+    
+  }
+  
+    .calculate-button {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: 7px;
+    width:220px;
+    height:50px;
+    margin-top:40px;
+    margin-left: 110px;
+    margin-bottom: 150px;
+    font-size: 19px;
+     background-color:dodgerblue;
+  }
+  
+  .calculate-button:hover {
+    transform: scale(1.25); 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  }
+  
+  
+  
