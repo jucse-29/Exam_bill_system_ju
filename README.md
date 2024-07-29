@@ -4,9 +4,9 @@
 This is our final web development team project where we use mainly react,bootstrap,css and material ui as frontend.Besides we use Django for backend.
 
 # Team Members
-- Akila Nipo
-- SIM Adnan
-- Samia Alam
+- `Akila Nipo`
+- `SIM Adnan`
+- `Samia Alam`
 
 
 ## Installation
