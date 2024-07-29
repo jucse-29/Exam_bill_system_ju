@@ -55,5 +55,5 @@ This is our final web development team project where we use mainly react,bootstr
 
 **Server:** Django
 
-Special Thanks 💚 to our repected supervisor `Anup Majumder`
+Special Thanks 💚 to our respected supervisor `Anup Majumder`
 
