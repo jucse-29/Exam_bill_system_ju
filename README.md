@@ -55,4 +55,5 @@ This is our final web development team project where we use mainly react,bootstr
 
 **Server:** Django
 
-## special thanks to our team leader  akila nipo
+Special Thanks 💚 to our repected supervisor `Anup Majumder`
+
